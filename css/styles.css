@@ -1,0 +1,160 @@
+body {
+  margin: 0;
+  background-color: white;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+h2 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+h3 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 100;
+}
+
+h4 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 500;
+  font-size: 23px;
+  margin-bottom: 0;
+}
+
+hr {
+  width: 20%;
+}
+
+p {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 200;
+  font-size: 16px
+}
+
+a {
+  text-decoration: none;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: gray;
+}
+
+a:hover {
+  color: dimgray;
+}
+
+.contact-me {
+  width: 38%;
+  margin: 50px auto;
+}
+
+.btn {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  -webkit-box-shadow: 0 1px 10px #c2bec2;
+  -moz-box-shadow: 0 1px 10px #c2bec2;
+  box-shadow: 0 1px 10px #c2bec2;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: black;
+  background: #ffffff;
+  padding: 10px 29px 10px 29px;
+  border: solid #757575 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #f5f5f5;
+  text-decoration: none;
+}
+
+.skills {
+  margin-top: 60px;
+}
+
+.profile {
+  margin: 50px auto 30px auto;
+  width: 50%;
+}
+
+.bottom-container {
+  background-color: #d9d9d9;
+  height: 145px;
+}
+
+.footer-container {
+  padding: 50px 0 0 0;
+}
+
+.margin-0y {
+  margin: 0 auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 80px auto;
+  text-align: left;
+}
+
+.skill-row img {
+  width: 130px;
+}
+
+.music-img {
+  float: left;
+  margin: 0 30px 0 0;
+}
+
+.webdev-img {
+  float: right;
+  margin: 0 0 0 30px;
+}
+
+.artist {
+  font-weight: 500;
+}
+
+.welcome-title {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 80px;
+  font-weight: 100;
+}
+
+.top-cloud {
+  position: absolute;
+  width: 267px;
+  top: 220px;
+  right: 20%;
+  opacity: 0.48;
+}
+
+.bottom-cloud {
+  position: absolute;
+  width: 261px;
+  top: 320px;
+  left: 14%;
+}
+
+.mountain {
+  width: 800px;
+  margin: 0 0 -4px 0;
+}
+
+.text-color-white {
+  color: white;
+}
+
+.top-container {
+  background-color: black;
+  margin: 0;
+  padding: 10% 0 0 0;
+  text-align: center;
+  position: relative;
+}
